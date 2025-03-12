@@ -1,0 +1,13 @@
+div {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  width: 150px;
+  height: 150px;
+  background-color: skyblue;
+}
+
+.rotate {
+  transform: rotate(20deg);
+}
+
